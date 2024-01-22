@@ -5,9 +5,12 @@
 > so please refer to [it's documentation](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md)
 > for more usage information.
 
-# [_Put your project name here_]
+Tanesha Gahtori
 
-[_Add a brief description of your project here._]
+Completed a job simulation where I built a web application using React
+Developed a page for picking a travel date using Skyscanner’s open-source Backpack React library.
+Customized my application and ran automated tests to ensure it rendered properly.
+
 
 ## npm script commands
 
